@@ -1,0 +1,10 @@
+RRT SIMULATION REPORT
+----------------------------------------
+Maze Selection:          1 (Maze 2: Islands)
+Environment Mode:        Dynamic
+Initial Tree Nodes:      1823
+Initial Path Waypoints:  118
+Total Replans Triggered: 1
+Final Path Waypoints:    60
+Total Distance Traveled: 127.7225
+Total Duration (sec):    14.5601

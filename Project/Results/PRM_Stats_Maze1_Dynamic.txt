@@ -1,0 +1,9 @@
+PRM SIMULATION RUN REPORT
+----------------------------------------
+Maze Selection:          1 (Maze 2: Islands)
+Environment Mode:        Dynamic
+Initial Roadmap Nodes:   1002
+Initial Path Waypoints:  107
+Total Replans Triggered: 1
+Final Path Waypoints:    64
+Total Duration (sec):    14.6130

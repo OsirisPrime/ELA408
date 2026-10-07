@@ -1,0 +1,10 @@
+RRT SIMULATION REPORT
+----------------------------------------
+Maze Selection:          0 (Maze 1: Corridors)
+Environment Mode:        Dynamic
+Initial Tree Nodes:      2853
+Initial Path Waypoints:  193
+Total Replans Triggered: 2
+Final Path Waypoints:    113
+Total Distance Traveled: 317.3190
+Total Duration (sec):    35.6230

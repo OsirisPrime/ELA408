@@ -1,0 +1,9 @@
+PRM SIMULATION RUN REPORT
+----------------------------------------
+Maze Selection:          0 (Maze 1: Corridors)
+Environment Mode:        Dynamic
+Initial Roadmap Nodes:   1002
+Initial Path Waypoints:  168
+Total Replans Triggered: 1
+Final Path Waypoints:    87
+Total Duration (sec):    20.1969
